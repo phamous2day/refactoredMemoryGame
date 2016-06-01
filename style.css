@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+.tile {
+  width: 24%;
+  float: left;
+  margin: .5%;
+  position: relative;
+  border: 1px solid black;
+}
+.hide {
+  visibility: hidden;
+}
